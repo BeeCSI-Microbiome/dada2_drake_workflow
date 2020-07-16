@@ -8,8 +8,9 @@ We were inspired by other projects such as Nf-core's [`ampliseq`](https://github
 
 ## Dependencies
 
-Install R & Download R Studio. (Version used 3.6.3)
-In order to run this workflow, the following packages need to be installed in R Studio
+Install R & Download R Studio. (Version used for development: 3.6.3)
+
+The following packages and versions were used to develop and test the worklow:
 
 1. `drake`		    (version 7.12.0)
 2. `DADA2`		    (version 1.14.1)
