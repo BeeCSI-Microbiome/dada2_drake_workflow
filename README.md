@@ -1,4 +1,4 @@
-# DADA2 workflow using drake
+# DADA2 workflow using the `drake` R package
 
 ## About
 
